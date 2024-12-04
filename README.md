@@ -8,8 +8,11 @@ This dashboard was created for Atliq Hardware, a computer hardware and periphera
 Prior to the project, the data analytics team met with Bahvin to discuss the dimensions of the project by using the AIMS grid. The dimensions are as follows:
 
 **Purpose:** To unlock sales insights that are not visible before to support the sales team in decision making & reduce manual time spent in data gathering.
+
 **Stakeholders:** sales director, marketing team, customer service team, data & analytics team, IT
+
 **End result:** An automated dashboard providing quick and latest sales insights in order to support data driven decision making
+
 **Success criteria:** Dashboard(s) uncovering sales order insights with latest data available. Sales analyst stop data gathering manually in order to save 20% of their business time and divert value elsewhere.
 
 ### Steps Followed
