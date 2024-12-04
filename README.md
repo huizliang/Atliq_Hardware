@@ -43,3 +43,6 @@ Prior to the project, the data analytics team met with Bahvin to discuss the dim
  
 ![Dashboard_upload](https://github.com/huizliang/Atliq_Hardware/blob/main/Atliq_mobile_view.png)
 
+
+
+[Dataset Source](https://codebasics.io/resources/sales-insights-data-analysis-project)
