@@ -1,9 +1,9 @@
 
-# Atliq-Dashboard
+# Atliq Dashboard
 
 ## Project Background
 
-This dashboard was created for Atliq Hardware, a computer hardware and peripheral products supplier in India. The dashboard will be used by Bhavin Patel, the sales director of the Delhi headquarter office to track sales of markets all across India. It will also help the company's sales analysts save time from gathering data manually and divert their energy elsewhere. 
+This dashboard was created for Atliq, a computer hardware and peripheral products supplier in India. The dashboard will be used by Bhavin Patel, the sales director of the Delhi headquarter office to track sales of markets all across India. It will also help the company's sales analysts save time from gathering data manually and divert their energy elsewhere. 
 
 Prior to the project, the data analytics team met with Bahvin to discuss the dimensions of the project by using the AIMS grid. The dimensions are as follows:
 
@@ -14,6 +14,12 @@ Prior to the project, the data analytics team met with Bahvin to discuss the dim
 **End result:** An automated dashboard providing quick and latest sales insights in order to support data driven decision making
 
 **Success criteria:** Dashboard(s) uncovering sales order insights with latest data available. Sales analyst stop data gathering manually in order to save 20% of their business time and divert value elsewhere.
+
+## Data Structure
+
+The companies main database structure as seen below consists of five tables: sales products, sales transactions, sales date, sales customers, and sales markets with more than 150,000 records. An entity relationship diagram of the tables is as follows:
+
+![ERD_snapo](https://github.com/huizliang/Atliq_Hardware/blob/main/Atliq_sales_ERD.png)
 
 ### Steps Followed
 
